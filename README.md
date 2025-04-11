@@ -1,4 +1,4 @@
-# python-comments-from-bilibili
+# python-comments-from-bilibili（aicu.ver）
 # 评论爬取脚本
 这是一个基于 Python 和 Selenium 的爬虫脚本，用于从指定网页（例如：Aicu）爬取多页评论，并将评论内容保存到文本文件中。
 
