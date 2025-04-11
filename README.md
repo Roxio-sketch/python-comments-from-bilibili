@@ -1,14 +1,8 @@
 # python-comments-from-bilibili
-# python-comments-from-bilibili
-好的，我可以帮助你编写一个简单的 `README.md` 文件，用于上传到 GitHub 上。以下是一个基础的 `README` 模板，你可以根据需要进行调整：
-
-```markdown
 # 评论爬取脚本
-
 这是一个基于 Python 和 Selenium 的爬虫脚本，用于从指定网页（例如：Aicu）爬取多页评论，并将评论内容保存到文本文件中。
 
 ## 需求
-
 - Python 3.x
 - Selenium
 - BeautifulSoup（如果使用 HTML 解析）
