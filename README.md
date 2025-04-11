@@ -24,7 +24,7 @@
 
 2. 运行脚本：
    ```bash
-   python scrape_comments.py
+   python comments.py
    ```
 
    该脚本会自动爬取指定网站的八页评论，并将评论内容保存到 `comments.txt` 文件中。
